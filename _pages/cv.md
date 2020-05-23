@@ -13,10 +13,10 @@ Education
 ======
 * B.Sc. in Industrial Engineering, TU Dortmund University, 2014
   * Exchange semester at Budapest University of Technology and Economy BME in Hungary, 2011/12 Budapest, Hungary, 2011-12
-  * Bachelor Thesis “Concept for the Reduction of Physical Exposure at Press Shops in Automotive Industry“ at the Institute of Production Systems of Prof. Dr. Jochen Deuse of the TU Dortmund University in cooperation with AUDI AG 
+  * Bachelor Thesis “Concept for the Reduction of Physical Exposure at Press Shops in Automotive Industry“ at the Institute of Production Systems of Prof. Dr.-Ing. Jochen Deuse of the TU Dortmund University in cooperation with AUDI AG 
 * M.Sc. in Industrial Engineering, TU Dortmund University, 2016
   * Exchange semster at Vilnius Gediminas Technical University VGTU in Vilnius, Lithuania, 2015
-  * Master Thesis “ Maturity Model for Production Processes in Industrie 4.0 “ at the Chair for Industrial Information Management of Prof. Dr. Boris Otto of the TU Dortmund University in cooperation with Wilo SE
+  * Master Thesis “Maturity Model for Production Processes in Industrie 4.0“ at the Chair for Industrial Information Management of Prof. Dr.-Ing. Boris Otto of the TU Dortmund University in cooperation with Wilo SE
 * Ph.D. in Mechanical Engineering, Stuttgart University, 2022 (expected)
   * Working Title: "Development of a Digital Transformation Framework for Methods and Tools in Global Value Creation Networks"
   * Doctoral Advisor: Prof. Dr.-Ing. Thomas Bauernhansl
