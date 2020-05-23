@@ -3,7 +3,7 @@ title: "Classification Approach for Use Cases within a Demonstration Factory Env
 collection: publications
 permalink: /publication/2019-08-10-paper-title-number-7
 excerpt: ''
-date: 2015-08-10
+date: 2019-08-10
 venue: 'Procedia Manufacturing'
 paperurl: 'https://doi.org/10.1016/j.promfg.2020.01.249'
 citation: 'Findeisen, Stefanie; Körting, Laura; Schumacher, Simon; Eusterwiemann, Tobias; Hämmerle, Moritz; Pokorni, Bastian. 2019 (2019). &quot;Classification Approach for Use Cases within a Demonstration Factory Environment&quot; <i>Procedia Manufacturing</i>.(39), p. 106-116.'
