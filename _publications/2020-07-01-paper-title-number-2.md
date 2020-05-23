@@ -1,0 +1,12 @@
+---
+title: "Description Model for the Assessment of Autonomous Production Stages."
+collection: publications
+permalink: /publication/2020-07-01-paper-title-number-2
+excerpt: ''
+date: 2020-07-01
+venue: '53rd CIRP Conference on Manufacturing Systems. Chicago, IL, USA'
+paperurl: ''
+citation: 'Styr, Angelika; Schumacher, Simon; Bauer, Dennis; Lucke, Dominik; Bauernhansl, Thomas. (2020). &quot;Description Model for the Assessment of Autonomous Production Stages.&quot; <i>Procedia CIRP</i>. ().'
+---
+
+Driven by digital transformation, manufacturing systems are heading towards autonomy. The implementation of autonomous elements in manufacturing systems is still a big challenge. Especially small and medium sized enterprises (SME) often lack experience to assess the degree of Autonomous Production. Therefore, a description model for the assessment of stages for Autonomous Production has been identified as a core element to support such a transformation process. In contrast to existing models, the developed SME-tailored model comprises different levels within a manufacturing system, from single manufacturing cells to the factory level. Furthermore, the model has been validated in several case studies.
