@@ -2,7 +2,7 @@
 title: "Technology radar for autonomous production – Systematic identification of technologies for the vision of an autonomous production system"
 collection: publications
 permalink: /publication/2020-03-01-paper-title-number-5
-excerpt: 'Technology radar for autonomous production'
+excerpt: 'Technology radar for autonomous production.'
 date: 2020-03-01
 venue: 'WT Werkstattstechnik'
 paperurl: ''
