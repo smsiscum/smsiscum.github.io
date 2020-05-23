@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Industrial Engineering, TU Dortmund University, 2014
+* M.Sc. in Industrial Engineering, TU Dortmund University, 2016
+* Ph.D. in Mechanical Engineering, Stuttgart University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2017: Research Associate
+  * Fraunhofer Institute for Manufacturing Engineering and Automation IPA
+  * Duties included: Project lead in national research project Future Work Lab; lead in and contribution to various research and industry projects on national and European scale
+  * Supervisor: Professor Bauernhansl
   
 Skills
 ======
