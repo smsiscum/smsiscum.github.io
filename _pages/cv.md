@@ -28,7 +28,7 @@ Professional experience
   * Research Associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
-  * Lead in and contribution to various research and industry projects on national and European scale
+  * Lead in and contribution to various research projects on national and European scale
   * Industry projects with companies such as Schaeffler Group, Diehl Aviation and many more
   * Duties included: Acquisitions, project budgeting, consulting, workshops, mentoring of students and academic teaching
   * Director: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
