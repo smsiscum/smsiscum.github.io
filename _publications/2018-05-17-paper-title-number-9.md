@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-05-17-paper-title-number-9
 excerpt: ''
 date: 2018-05-17
-venue: '51st CIRP Conference on Manufacturing Systems'
+venue: '51st CIRP Conference on Manufacturing Systems. Stockholm, Sweden'
 paperurl: 'https://doi.org/10.1016/j.procir.2018.03.149'
 citation: 'Issa, Ahmad; Schumacher, Simon; Hatiboglu, Bumin; Groß, Erwin; Bauernhansl, Thomas (2018). &quot;Open Innovation in the Workplace: Future Work Lab as a Living Lab&quot; <i>Procedia CIRP</i>. (72), p. 629-635.'
 ---
