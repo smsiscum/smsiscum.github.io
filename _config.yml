@@ -82,7 +82,13 @@ analytics:
 author:
   name             : "Simon Schumacher"
   avatar           : "profile.png"
-  bio              : "Researcher at Fraunhofer IPA  Ph.D. candidate at University Stuttgart  Project lead at Future Work Lab  Visiting Researcher at MIT"
+  bio              : "Researcher at Fraunhofer IPA
+  
+  Ph.D. candidate at University Stuttgart
+  
+  Project lead at Future Work Lab
+  
+  Visiting Researcher at MIT"
   location         : "Stuttgart, Germany"
   employer         :
   pubmed           :
