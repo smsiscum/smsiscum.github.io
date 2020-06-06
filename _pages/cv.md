@@ -24,7 +24,7 @@ Education
 
 Professional experience
 ======
-* [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](www.ipa.fraunhofer.de), since 2017
+* [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/), since 2017
   * Research Associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
