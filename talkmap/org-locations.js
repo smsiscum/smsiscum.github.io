@@ -10,13 +10,28 @@ var addressPoints = [
     18.0649
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Ljubljana, Slovenia",
+    46.04998,
+    14.50686
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Kirchberg, Luxembourg",
+    49.62783,
+    6.15967
+  ],
+  [
+    "Chicago IL, USA",
+    41.87556,
+    -87.62442
+  ],
+  [
+    "Kruger National Park, South Africa",
+    -23.91530,
+    31.49070
+  ],
+  [
+    "Stuttgart, Germany",
+    48.77845,
+    9.18001
   ]
 ];
