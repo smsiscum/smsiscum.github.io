@@ -2,7 +2,7 @@
 title: "Participatory Design for Digital Transformation of Manufacturing Enterprises"
 collection: publications
 permalink: /publication/2020-10-23 Working Paper MIT
-excerpt: 'Working Paper on Participatory Design for Digital Transformation of Manufacturing Enterprises'
+excerpt: 'Working Paper on Participatory Design for Digital Transformation of Manufacturing Enterprises.'
 date: 2020-10-23
 venue: 'MIT Work of the Future Working Paper Series. Cambridge, MA, USA'
 paperurl: 'https://workofthefuture.mit.edu/research-post/participatory-design-for-digital-transformation-of-manufacturing-enterprises/'
