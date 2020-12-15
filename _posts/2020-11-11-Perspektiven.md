@@ -11,7 +11,7 @@ tags:
 
 Text.
 
-Please read the lead article on Germany 2025 in the e-reader version of the magazine on page 9-14 [Perspektiven 1-2020](https://www.gesamtmetall.de/aktuell/publikationen/perspektiven-ausgabe-1).
+Please read the lead article on Germany 2025 in the e-reader version of the magazine [Perspektiven 1-2020](https://www.gesamtmetall.de/aktuell/publikationen/perspektiven-ausgabe-1) on page 9-14.
 
 
 Photo shooting at the Future Work Lab
