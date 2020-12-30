@@ -2,7 +2,7 @@
 title: "Panel: Are humans still at the center of Industry 4.0?"
 collection: talks
 type: "Panel Discussion"
-permalink: /talks/2019-02-21-talk-2
+permalink: /talks/2019-02-21-Startup-Autobahn
 venue: "Wagenhallen, Stuttgart"
 date: 2019-02-21
 location: "Stuttgart, Germany"
