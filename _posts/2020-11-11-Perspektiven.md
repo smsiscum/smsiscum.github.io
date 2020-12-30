@@ -2,6 +2,8 @@
 title: 'Interview feature in Perspektiven by Gesamtmetall (German)'
 date: 2020-11-11
 permalink: /posts/Perspektiven/
+header:
+  teaser: "20200827MST_00005.JPG"
 tags:
   - Deutschland 2025
   - Industrie 4.0
