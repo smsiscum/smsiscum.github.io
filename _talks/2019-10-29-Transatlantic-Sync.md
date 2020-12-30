@@ -2,7 +2,7 @@
 title: "FutureWork360"
 collection: talks
 type: "Lightning Talk"
-permalink: /talks/2019-10-29-talk-6
+permalink: /talks/2019-10-29-Transatlantic-Sync
 venue: "Transatlantic Sync Conference"
 date: 2019-10-29
 location: "Mountain View, California, USA"
