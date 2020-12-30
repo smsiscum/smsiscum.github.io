@@ -14,5 +14,5 @@ Please read the article on my research stay at the MIT in the e-reader version o
 
 Future Work Lab at MIT Great Dome
 ------
-![alt](IMG_1039.jpg)
+![](/images/IMG_1039.jpg)
 (c) Simon Schumacher
