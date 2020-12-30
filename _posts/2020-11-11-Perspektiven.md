@@ -14,5 +14,5 @@ Please read the lead article on Germany 2025 in the e-reader version of the maga
 
 Photo shooting at the Future Work Lab
 ------
-![](https://smsiscum.github.io/images/20200827MST_00005.jpg)
+![](https://smsiscum.github.io/images/20200827MST_00005.JPG)
 (c) Martin Stollberg
