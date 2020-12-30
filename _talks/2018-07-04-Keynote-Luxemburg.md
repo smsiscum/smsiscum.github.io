@@ -2,7 +2,7 @@
 title: "Digital Technologies and Assistance Systems in the Workplace of the Future"
 collection: talks
 type: "Keynote"
-permalink: /talks/2018-07-04-talk-1
+permalink: /talks/2018-07-04-Keynote-Luxemburg
 venue: "Hotel Novotel Luxembourg Kirchberg"
 date: 2018-07-04
 location: "Kirchberg, Luxembourg"
