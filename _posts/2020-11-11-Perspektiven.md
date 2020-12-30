@@ -1,5 +1,5 @@
 ---
-title: 'Interview feature in magazine Perspektiven by Gesamtmetall (German)'
+title: 'Interview feature in Perspektiven by Gesamtmetall (German)'
 date: 2020-11-11
 permalink: /posts/Perspektiven/
 tags:
