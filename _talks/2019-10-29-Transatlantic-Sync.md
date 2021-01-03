@@ -10,7 +10,7 @@ location: "Mountain View, California, USA"
 
 At Transatlantic Sync, Simon Schumacher gave insights into the existing lab infrastructure of Future Work Lab with more than 50 live use cases on future work scenarios. Next year, the transfer project FutureWork360 will bring the existing content to the world via three different communication streams: print, online and live events. Especially a virtual representation of the use cases in a 360-degree experience will open the lab to new target groups.
 
-Link to the official conference page: [Transatlantic Sync Conference 2019] (https://www.transatlantic-sync.com/)
+Link to the official conference page: [Transatlantic Sync Conference 2019](https://www.transatlantic-sync.com/)
 
 
 
