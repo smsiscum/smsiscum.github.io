@@ -14,4 +14,4 @@ As a Ph.D. student I am enrolled at the University of Stuttgart. As a visiting s
 
 Before joining Fraunhofer IPA, I gained work experience at industrial companies (Audi AG, Wilo SE, active logistics GmbH) and engaged in intercultural exchange during two exchange semesters (Budapest, Hungary and Vilnius, Lithuania).
 
-I’m currently still playing around with this whole website thing, so please excuse the lack of content and poor formatting. Please find a first version of my worldwide talks in this [talk map](https://smsiscum.github.io/talkmap.html). I’m using the [academicpages template](https://github.com/academicpages/academicpages.github.io) which is hosted on [GitHub pages](https://pages.github.com). 
+I’m currently still playing around with this whole website thing, so please excuse the lack of content and poor formatting. Please find a first version of my worldwide talk map [here](https://smsiscum.github.io/talkmap.html). I’m using the [academicpages template](https://github.com/academicpages/academicpages.github.io) which is hosted on [GitHub pages](https://pages.github.com). 
