@@ -11,7 +11,7 @@ tags:
   - Massachusetts Institute of Technology
 ---
 
-Please read the article on my research stay at the MIT in the e-reader version of the magazine [Interaktiv 2-2020](https://interaktiv.ipa.fraunhofer.de/2-2020/0652070001607417926) on page 30-33. 
+Please read the article about my research stay at the MIT in the online version of the magazine [Interaktiv 2-2020](https://interaktiv.ipa.fraunhofer.de/digitale-transformation/transatlantische-kooperation-zur-zukunft-der-arbeit/).
 
 
 Future Work Lab at MIT Great Dome
