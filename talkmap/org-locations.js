@@ -30,6 +30,21 @@ var addressPoints = [
     31.49070
   ],
   [
+    "Vancouver BC, Canada",
+    49.24966,
+    -123.11934
+  ],
+  [
+    "Cambridge MA, USA",
+    42.35824,
+    -71.09665
+  ],
+  [
+    "Berlin, Germany",
+    52.51704,
+    13.38886
+  ],
+  [
     "Stuttgart, Germany",
     48.77845,
     9.18001
