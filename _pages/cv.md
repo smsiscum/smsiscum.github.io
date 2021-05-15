@@ -28,9 +28,10 @@ Professional experience
   * Research Associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
-  * Strategic coordinator of the research field [technologies for human-centered production](https://www.ipa.fraunhofer.de/de/ueber_uns/Leitthemen.html)
+  * Strategic coordinator of the research field [technologies for human-centered production](https://www.ipa.fraunhofer.de/de/ueber_uns/Leitthemen/technologien-menschzentrierte-produktion.html)
   * Lead in and contribution to various research projects on national and European scale
   * Industry projects with companies such as Schaeffler Group, Diehl Aviation and many more
+  * Member of working groups coordinated by the European Commission (Digital Innovation Hubs), Federal Ministry of Labour and Social Affairs (AI Observatory), and German Institute for Standardization DIN.
   * Duties included: Acquisitions, project budgeting, consulting, workshops, mentoring of students and academic teaching
   * Director: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
 
@@ -80,5 +81,6 @@ Teaching
   
 Project Awards
 ======
+# * Future Work Lab, [Delina Award 2021](https://www.learntec.de/de/learntec/die-fachmesse/delina-award/), Learntec, 2021
 * Future Work Lab, [Landmarks in the Land of Ideas](https://land-der-ideen.de/en/competitions/landmarks), Germany Land of Ideas initiative, see [press release](https://www.ipa.fraunhofer.de/de/presse/presseinformationen/Auszeichnung_Future_Work_Lab.html), 2017
 * Future Work Lab, [100 Places for Industrie 4.0 in Baden Württemberg](https://www.i40-bw.de/de/100-orte-fuer-industrie-4-0-in-baden-wuerttemberg/), Allianz Industrie 4.0 Baden-Württemberg, see [press release](https://www.ipa.fraunhofer.de/de/presse/presseinformationen/future-work-lab-erneut-ausgezeichnet-.html), 2017
