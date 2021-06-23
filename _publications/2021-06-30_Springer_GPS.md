@@ -1,5 +1,5 @@
 ---
-title: "Ganzheitliche Produktionssysteme: Die Digitale Transformation von Methoden und Werkzeugen"
+title: "Ganzheitliche Produktionssysteme: Die Digitale Transformation von Methoden und Werkzeugen (under review)"
 collection: publications
 permalink: /publication/2021-06-30 Springer GPS
 excerpt: 'Book chapter on the digital transformation of Lean Production Systems with focus on the design of methods and tools.'
