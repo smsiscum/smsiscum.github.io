@@ -56,6 +56,7 @@ Work experience
   
 Skills
 ======
+* Certified SCRUM Product Owner, 2021 (registered)
 * Certified Data Scientist Basic Level, 2019
 * Certified SCRUM Master, 2018
 * Software & Programming: Microsoft Office, Failure Mode and Effects Analysis, Visual Basic, Java
