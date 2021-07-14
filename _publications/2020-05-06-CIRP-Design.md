@@ -1,7 +1,7 @@
 ---
 title: "Conceptualization of a Framework for the Design of Production Systems and Industrial Workplaces"
 collection: publications
-permalink: /publication/2020-05-06-paper-title-number-3
+permalink: /publication/2020-05-06-CIRP-Design
 excerpt: ''
 date: 2020-05-06
 venue: '30th CIRP Design Conference. Kruger National Park, South Africa'
