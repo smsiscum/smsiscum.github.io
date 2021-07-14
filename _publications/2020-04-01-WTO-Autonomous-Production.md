@@ -1,7 +1,7 @@
 ---
 title: "Introduction of autonomous production – A maturity model including recommended actions for manufacturing companies"
 collection: publications
-permalink: /publication/2020-04-01-Autonomous-Production
+permalink: /publication/2020-04-01-WTO-Autonomous-Production
 excerpt: 'Maturity model for the introduction of autonomous production.'
 date: 2020-04-01
 venue: 'WT Werkstattstechnik'
