@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanical Engineering, Stuttgart University, 2022 (expected)
-  * Working Title: "Development of a Digital Transformation Framework for Methods and Tools in Global Value Creation Networks"
+* Ph.D. in Mechanical Engineering, Stuttgart University, 2023 (expected)
+  * Working Title: "Framework for Methods and Tools in Lean Production Systems 4.0"
   * Doctoral Advisor: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
   * Senior Scientific Advisor: Dr. Andreas Bildstein
 * M.Sc. in Industrial Engineering, TU Dortmund University, 2016
@@ -30,7 +30,7 @@ Professional experience
   * Project lead in national project [FutureWork360](https://futurework360.de)
   * Strategic coordinator of the research field [technologies for human-centered production](https://www.ipa.fraunhofer.de/de/ueber_uns/Leitthemen/technologien-menschzentrierte-produktion.html)
   * Lead in and contribution to various research projects on national and European scale
-  * Industry projects with companies such as Schaeffler Group, Diehl Aviation and many more
+  * Industry projects with companies such as BMW, Schaeffler Group, Diehl Aviation, Huawei and many more
   * Member of working groups coordinated by the European Commission (Digital Innovation Hubs), Federal Ministry of Labour and Social Affairs (AI Observatory), and German Institute for Standardization DIN
   * Duties included: Acquisitions, project budgeting, consulting, workshops, mentoring of students and academic teaching
   * Director: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
@@ -56,7 +56,7 @@ Work experience
   
 Skills
 ======
-* Certified SCRUM Product Owner, 2021 (registered)
+* Certified SCRUM Product Owner, 2022 (registered)
 * Certified Data Scientist Basic Level, 2019
 * Certified SCRUM Master, 2018
 * Software & Programming: Microsoft Office, Failure Mode and Effects Analysis, Visual Basic, Java
