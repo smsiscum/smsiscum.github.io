@@ -35,6 +35,11 @@ Professional experience
   * Duties included: Acquisitions, project budgeting, consulting, workshops, mentoring of students and academic teaching
   * Director: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
 
+* Massachusetts Institute of Technology, 2022
+  * Visiting Ph.D. Student at MIT Industrial Performance Center
+  * Joint study on small firm technology adoption planned
+  * Research Supervisor: [Dr. Ben Armstrong](https://ipc.mit.edu/people/ben-armstrong)
+
 * Massachusetts Institute of Technology, 2020
   * Visiting Ph.D. Student at MIT Industrial Performance Center
   * Visiting Researcher with the MIT Task Force Work of the Future
