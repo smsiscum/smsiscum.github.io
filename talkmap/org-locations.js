@@ -5,6 +5,11 @@ var addressPoints = [
     -122.08321
   ],
   [
+    "Philadelphia, USA",
+    39.952583,
+    -75.165222
+  ],
+  [
     "Wolfsburg, Germany",
     52.4226503,
     10.7865461
@@ -33,6 +38,11 @@ var addressPoints = [
     "Kruger National Park, South Africa",
     -23.91530,
     31.49070
+  ],
+  [
+    "Vancouver BC, Canada",
+    49.24966,
+    -123.11934
   ],
   [
     "Vancouver BC, Canada",
