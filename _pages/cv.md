@@ -37,7 +37,7 @@ Professional experience
 
 * Massachusetts Institute of Technology, 2022
   * Visiting Ph.D. Student at MIT Industrial Performance Center
-  * Joint study on small firm technology adoption planned
+  * Joint study on small firm technology adoption
   * Research Supervisor: [Dr. Ben Armstrong](https://ipc.mit.edu/people/ben-armstrong)
 
 * Massachusetts Institute of Technology, 2020
@@ -62,6 +62,7 @@ Work experience
 Skills
 ======
 [comment]: <> ( * Certified SCRUM Product Owner, 2022 (registered))
+* Certified Lean Six Sigma Yellow Belt, 2022
 * Certified Data Scientist Basic Level, 2019
 * Certified SCRUM Master, 2018
 * Software & Programming: Microsoft Office, Failure Mode and Effects Analysis, Visual Basic, Java
