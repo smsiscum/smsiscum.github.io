@@ -1,0 +1,17 @@
+---
+title: "Who Codes the Cobots?: An Automation Typology for Task Repeatability and Shop Floor Expertise"
+collection: talks
+type: "Workshop"
+permalink: /talks/2022-05-23-ICRA
+venue: "IEEE International Conference on Robotics and Automation 2022"
+date: 2022-05-23
+location: "Philadelphia, Pennsylvania, USA"
+---
+
+Workshop paper presentation at the IEEE International Conference on Robotics and Automation Workshop on Collaborative Robots and the Work of the Future.
+
+Authors: Anna Waldman-Brown, Lindsay Sanneman (Massachusetts Institute of Technology, USA), Simon Schumacher, and Roland Hall (Fraunhofer Institute for Manufacturing Engineering and Automation, Germany)
+
+Abstract: Drawing from 17 interviews with cobot integrators and cobot-adopting small and medium enterprises, this paper provides a preliminary typology of cobot tasks that relates who controls the cobot with the degree of task repeatability. The typology consists of three potential groups of cobot controllers - shop floor workers, dedicated technologists within the firm, and experts outside the firm – and three types of cobot tasks – high repeatability, medium repeatability, and low repeatability. High repeatability tasks require little to no cobot operator knowledge within the firm, medium repeatability tasks require experts within the firm who are not necessarily on the shop floor, and low repeatability tasks require frequent shop floor expertise.
+
+Link to the workshop page: [IEEE ICRA  2022](https://sites.google.com/view/icra22ws-cor-wotf/home)
