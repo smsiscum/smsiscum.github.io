@@ -11,7 +11,7 @@ tags:
   - Massachusetts Institute of Technology
 ---
 
-Please read the article about my second research stay at the MIT in the online version of the magazine [Interaktiv 2-2022](https://interaktiv.ipa.fraunhofer.de/digitale-transformation/transatlantische-kooperation-zur-zukunft-der-arbeit/).
+Please read the article about my second research stay at the MIT on pages 31-33 of the magazine [Interaktiv 2-2022](https://www.ipa.fraunhofer.de/content/dam/ipa/de/documents/Publikationen/interaktiv/Kundenmagazin_interaktiv_02_2022.pdf).
 
 
 MIT Killian Court and Great Dome in Summer 2022
