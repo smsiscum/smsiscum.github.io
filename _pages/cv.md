@@ -25,7 +25,8 @@ Education
 Professional experience
 ======
 * [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/), since 2017
-  * Research Associate at the Competence Center Digital Tools for Manufacturing
+  * Head of research group 'Digital Industrial Engineering' (since 2023)
+  * Research associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
   * Strategic coordinator of the research field [technologies for human-centered production](https://www.ipa.fraunhofer.de/de/ueber_uns/Leitthemen/technologien-menschzentrierte-produktion.html)
