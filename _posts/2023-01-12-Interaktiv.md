@@ -1,7 +1,7 @@
 ---
 title: 'Report on my second research stay at the MIT in Interaktiv by Fraunhofer IPA (German)'
 date: 2023-01-12
-permalink: /posts/Interaktiv/
+permalink: /posts/Interaktiv2/
 header:
   teaser: "MIT4.jpg"
 tags:
