@@ -14,7 +14,8 @@ Education
 * Ph.D. in Mechanical Engineering, Stuttgart University, 2023 (expected)
   * Working Title: "Framework for Methods and Tools in Lean Production Systems 4.0"
   * Doctoral Advisor: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
-  * Senior Scientific Advisor: Dr. Andreas Bildstein
+  * Co-Supervisor: [Prof. Dr.-Ing. habil. Peter Nyhuis](https://www.ifa.uni-hannover.de/en/institut/unser-team/prof-dr-ing-habil-peter-nyhuis/)
+  * Senior Scientific Advisor: [Prof. Dr. Andreas Bildstein](https://www.linkedin.com/in/andreas-bildstein-phd-29178665/)
 * M.Sc. in Industrial Engineering, TU Dortmund University, 2016
   * Exchange semster at Vilnius Gediminas Technical University VGTU in Vilnius, Lithuania, 2015
   * Master Thesis “Maturity Model for Production Processes in Industrie 4.0“ at the Chair for Industrial Information Management of [Prof. Dr.-Ing. Boris Otto](https://de.wikipedia.org/wiki/Boris_Otto) of the TU Dortmund University in cooperation with Wilo SE
