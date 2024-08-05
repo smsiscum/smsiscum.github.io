@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mechanical Engineering, Stuttgart University, 2024 (expected)
-  * Working Title: "Framework for Methods and Tools in Lean Production Systems 4.0"
+  * Working Title: "Framework for digitally transformed Lean Production Systems"
   * Doctoral Advisor: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
   * Co-Supervisor: [Prof. Dr.-Ing. habil. Peter Nyhuis](https://www.ifa.uni-hannover.de/en/institut/unser-team/prof-dr-ing-habil-peter-nyhuis/)
   * Senior Scientific Advisor: [Prof. Dr. Andreas Bildstein](https://www.linkedin.com/in/andreas-bildstein-phd-29178665/)
@@ -26,7 +26,8 @@ Education
 Professional experience
 ======
 * [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/), since 2017
-  * Head of research group Digital Industrial Engineering (since 2023)
+  * Research team lead Implementation Methods for IT solutions (since 07/2024)
+  * Research team lead Digital Industrial Engineering (01/2023-06/2024)
   * Research associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
