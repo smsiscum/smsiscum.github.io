@@ -76,7 +76,7 @@ Project Awards
 [comment]: <> ( * Future Work Lab, [Delina Award 2021](https://www.learntec.de/de/learntec/die-fachmesse/delina-award/), Learntec, 2021)
 * Future Work Lab, [Delina Award 2021](https://www.learntec.de/de/learntec/die-fachmesse/delina-award/) - 3rd place, Society and lifelong learning, Learntec, see [press release](https://www.ipa.fraunhofer.de/de/presse/kurzmeldungen/mobile-lernwelt-linc-wird-ausgezeichnet.html), 2021
 * Future Work Lab, [Landmarks in the Land of Ideas](https://land-der-ideen.de/en/competitions/landmarks), Germany Land of Ideas initiative, see [press release](https://www.ipa.fraunhofer.de/de/presse/presseinformationen/Auszeichnung_Future_Work_Lab.html), 2017
-* Future Work Lab, [100 Places for Industrie 4.0 in Baden Württemberg](https://www.i40-bw.de/de/100-orte-fuer-industrie-4-0-in-baden-wuerttemberg/), Allianz Industrie 4.0 Baden-Württemberg, see [press release](https://www.ipa.fraunhofer.de/de/presse/presseinformationen/future-work-lab-erneut-ausgezeichnet-.html), 2017
+* Future Work Lab, [100 Places for Industrie 4.0 in Baden Württemberg](https://www.i40-bw.de/de/100-orte/), Allianz Industrie 4.0 Baden-Württemberg, see [press release](https://www.ipa.fraunhofer.de/de/presse/presseinformationen/future-work-lab-erneut-ausgezeichnet-.html), 2017
 
 Publications
 ======
