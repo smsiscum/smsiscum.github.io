@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanical Engineering, Stuttgart University, 2025
+* Dr.-Ing. in Mechanical Engineering, Stuttgart University, 2025
   * Dissertation title: "Framework for digitally transformed Lean Production Systems" (submitted in 2024)
   * Doctoral Advisor: [Prof. Dr.-Ing. Thomas Bauernhansl](https://de.wikipedia.org/wiki/Thomas_Bauernhansl)
   * Co-Supervisor: [Prof. Dr.-Ing. habil. Peter Nyhuis](https://www.ifa.uni-hannover.de/en/institut/unser-team/prof-dr-ing-habil-peter-nyhuis/)
