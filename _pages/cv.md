@@ -26,8 +26,8 @@ Education
 Professional experience
 ======
 * [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/), since 2017
-  * Research team lead Implementation Methods for IT solutions (since 07/2024)
-  * Research team lead Digital Industrial Engineering (01/2023-06/2024)
+  * Research team manager Implementation Methods for IT solutions (since 07/2024)
+  * Research team manager Digital Industrial Engineering (01/2023-06/2024)
   * Research associate at the Competence Center Digital Tools for Manufacturing
   * Project lead in national research project [Future Work Lab](https://futureworklab.de)
   * Project lead in national project [FutureWork360](https://futurework360.de)
